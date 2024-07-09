@@ -15,7 +15,7 @@ After training, the model is evaluated on the validation set by calculating the 
 The model demonstrates the ability to predict movie ratings, but its performance can be improved by tuning hyperparameters, using more advanced architectures, or incorporating additional features.
 ## Requirements
 Libs requirements:
-1. Python 3.x
+1. Python 
 2. pandas
 3. numpy
 4. matplotlib
